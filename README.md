@@ -1,6 +1,6 @@
 # Math Game — A Console-Based Arithmetic Game
 ## 🎮 Description
-**Math Game** is a simple C++ console game for practicing arithmetic with random questions and instant feedback. Players choose difficulty levels and operations, then solve math problems generated on the fly.
+**Math Game** is a simple C++ console game for practicing arithmetic with random questions and instant feedback. Players choose difficulty levels and operations, then solve the math problems.
 
 ---
 ![Game Screenshot](assets/Equal.png)
